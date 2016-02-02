@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="skymorning" type="color">#2A8ACB</item>
+    <item name="skyevening" type="color">#154565</item>
+    <item name="skynight" type="color">#0C293C</item>
+
+</resources> 

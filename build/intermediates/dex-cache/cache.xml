@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\gson-2.5-19af28228edbb272d6a1464deae19ab146dc8d05.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Documents\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ed2e05a99b2f500523e9e296fcbccc2765bc3740.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-39eb954e1988705689b593adb9dd3c0172f37987.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-67445f2453d9a32f816a62f13447580624e8d0af.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-a1b0c00fc29b1c47cf0d0aa630a62a20afdb02f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\exploded-aar\WeatherAppDemo\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="90154377138708647f1f3b8245777ff1538a2afa">
+        <dex dex="C:\Users\nigel\Code\Github\WeatherAppDemo\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-e92e39f8f5306aff8c29e27761eb1528ffa51c23.jar" />
+    </item>
+
+</items>
