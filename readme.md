@@ -20,17 +20,21 @@ To use within Android Studio:
 
 2) Open Android Studio, then choose to open an existing Android Studio project and select the location where you've cloned this repo.
 
-3) Android studio will attempt to build and will give you an error. This is due to the fact that I cannot redistribute Volley.
+3) Android studio will attempt to build and may give you an error. This is due to the fact that I cannot redistribute Volley.
 
-4) Clone Volley:
+4) git clone https://android.googlesource.com/platform/frameworks/volley
 
-	git clone https://android.googlesource.com/platform/frameworks/volley
+5) From Android Studio - File, Import Module, select the location where you cloned Volley
 
-5) Within Android Studio now choose 'Import Module'	and select the location where you cloned Volley.
+6) You may be asked if you wish to add certain XML files to 'Git'. Say no.
 
-6) Once step 5 has completed, clean the build and rebuild.
+7) From Android Studio - Edit build.gradle (app) and add the line: compile project(':Volley')
 
-7) Within MainActivity.java, replace the 'FFFFFFFFFF' string (as detailed below) with the API key provided to you when you register with OpenWeatherMap (see below)
+8) Click 'Sync Now'
+
+9) Clean and rebuild
+
+10) Within MainActivity.java, replace the 'FFFFFFFFFF' string (as detailed below) with the API key provided to you when you register with OpenWeatherMap (see below)
    public static final String WEATHER_API_KEY = "FFFFFFFFFF";
 
 
